@@ -3,6 +3,8 @@ class Test{
 
      System.out.println("Hello Java added by Dev B");
      System.out.println("Hello Java added by Dev B and updated by DEV A");  
+        System.out.println("Hello Java added by git remote repo");  
+        
 
     }  
 } 
